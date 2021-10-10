@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.container {
+  width: 100%;
+  background-color: black;
+  padding-top: 2%;
+}
+
+.container h3 {
+  padding: 0px 0px 0px 20px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  height: 10vh;
+  background-color: black;
+}
